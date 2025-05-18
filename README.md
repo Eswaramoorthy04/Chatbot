@@ -60,8 +60,7 @@ streamlit run app.py
 
 ## 🖥️ **User Interface**  
 
-- **Chat interface** with real-time product and order tracking  
-- **Floating chatbot button** that toggles interactions  
+- **Chat interface** with real-time product and order tracking    
 - **Clean and structured responses** for better readability  
 - **Responsive UI with custom styling**  
 
@@ -103,8 +102,7 @@ streamlit run app.py
 
 ## 🛡️ **Security & Deployment**  
 
-- Hosted on **GitHub & Streamlit Cloud**  
-- **Click-to-toggle chatbot button** for non-intrusive UI  
+- Hosted on **GitHub & Streamlit Cloud**    
 - **Secure CSV data handling** for product & order tracking  
 
 ---
@@ -136,7 +134,3 @@ Developed by **Eswaramoorthy**
 - **GitHub & Streamlit Cloud** for deployment  
 
 ---
-
-### 🚀 **Your chatbot is now well-documented and professionally structured!**  
-Let me know if you’d like any **modifications or extra sections!** 😊🔥  
-Your project README is **clear, polished, and engaging!**  
