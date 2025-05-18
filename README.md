@@ -1,6 +1,6 @@
 Chatbot Project - E-Commerce Assistant:
 
-This repository contains a conversational AI chatbot designed for e-commerce assistance. It helps users with order tracking, product inquiries, and general customer support using machine learning-based intent classification and real-time CSV data integration.
+This repository contains a conversational AI chatbot designed for e-commerce assistance for a entry level data provided like the real world data. It helps users with order tracking, product inquiries, and general customer support using machine learning-based intent classification and real-time CSV data integration.
 
 Features
 
